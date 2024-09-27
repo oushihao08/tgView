@@ -1,2 +1,0 @@
-import{f as e}from"./lodash-es-87d81e2d.js";import{c as s,g as t}from"./vue-10f3042e.js";const r=["class","style"],l=/^on[A-Z]/,o=(o={})=>{const{excludeListeners:a=!1,excludeKeys:n}=o,u=s((()=>((null==n?void 0:n.value)||[]).concat(r))),c=t();return s(c?()=>{var s;return e(Object.entries(null==(s=c.proxy)?void 0:s.$attrs).filter((([e])=>!(u.value.includes(e)||a&&l.test(e)))))}:()=>({}))};export{o as u};
-//# sourceMappingURL=index-9ef2549a.js.map

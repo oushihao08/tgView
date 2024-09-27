@@ -1,2 +1,0 @@
-System.register(["./lodash-es-legacy-9b7a5f41.js","./vue-legacy-ad0cdcd9.js"],(function(e,t){"use strict";var s,c,r;return{setters:[e=>{s=e.f},e=>{c=e.c,r=e.g}],execute:function(){const t=["class","style"],n=/^on[A-Z]/;e("u",((e={})=>{const{excludeListeners:u=!1,excludeKeys:l}=e,a=c((()=>((null==l?void 0:l.value)||[]).concat(t))),i=r();return c(i?()=>{var e;return s(Object.entries(null==(e=i.proxy)?void 0:e.$attrs).filter((([e])=>!(a.value.includes(e)||u&&n.test(e)))))}:()=>({}))}))}}}));
-//# sourceMappingURL=index-legacy-026c3e72.js.map
