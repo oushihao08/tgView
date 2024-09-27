@@ -1,0 +1,2 @@
+System.register(["./vue-legacy-ad0cdcd9.js"],(function(e,n){"use strict";var r,s,t,c;return{setters:[e=>{r=e.M,s=e.N,t=e.Z,c=e.q}],execute:function(){const n=["xlink:href"];e("_",{__name:"IconSvg",props:{name:{required:!0}},setup:e=>(u,a)=>(r(),s("svg",c({class:"icon"},u.$attrs,{"aria-hidden":"true"}),[t("use",{"xlink:href":`#${e.name}`},null,8,n)],16))})}}}));
+//# sourceMappingURL=IconSvg-legacy-60cb2adb.js.map
